@@ -1,12 +1,8 @@
-### **README.md**
-
----
-
 # 🌞 **Solar Irradiance and Weather Data Analysis** 📊
 
 ## **Introduction**
 
-This repository contains an in-depth **Exploratory Data Analysis (EDA)** of solar irradiance and weather data collected from **Malanville, Benin**. The analysis focuses on understanding patterns, assessing data quality, and visualizing trends in solar energy parameters such as **Global Horizontal Irradiance (GHI)**, **Direct Normal Irradiance (DNI)**, and **Diffuse Horizontal Irradiance (DHI)**. This project aims to support renewable energy research and weather forecasting applications.
+This repository contains an in-depth **Exploratory Data Analysis (EDA)** of solar irradiance and weather data collected from **Malanville, Benin** (Latitude: **11.00° N**, Longitude: **3.25° E**). The analysis focuses on understanding patterns, assessing data quality, and visualizing trends in solar energy parameters such as **Global Horizontal Irradiance (GHI)**, **Direct Normal Irradiance (DNI)**, and **Diffuse Horizontal Irradiance (DHI)**. This project aims to support renewable energy research and weather forecasting applications.
 
 ---
 
@@ -158,3 +154,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 🚀 **Happy Analyzing!** 🌞
+
