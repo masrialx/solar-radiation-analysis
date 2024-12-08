@@ -56,12 +56,17 @@ This repository contains an in-depth **Exploratory Data Analysis (EDA)** of sola
 To run the analysis, ensure you have the following packages installed:
 
 ```bash
-pandas==2.0.3  
-numpy==1.23.5  
-matplotlib==3.5.1  
-seaborn==0.11.2  
-plotly==5.1.0  
-jupyterlab==3.2.1  
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+scipy
+jupyter
+streamlit
+plotly
+
 ```
 
 ---
